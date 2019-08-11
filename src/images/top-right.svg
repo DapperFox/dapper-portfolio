@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="778px" height="474px" viewBox="0 0 778 474" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>top-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.429227,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.94" offset="0%"></stop>
+            <stop stop-color="#D5D5D5" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#858585" offset="0%"></stop>
+            <stop stop-color="#4E4E4E" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="top-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M125.88425,-29.5 C16.8842503,-16.5 113,280 224,251 C335,222 374,220 557,251 C740,282 836.794615,393.217949 931,317 C993.80359,266.188034 959.431673,150.688034 827.88425,-29.5 C432.550917,-38.1666667 198.550917,-38.1666667 125.88425,-29.5 Z" id="Path-4" fill="url(#radialGradient-1)"></path>
+        <path d="M173,-37 C64,-24 215,272 314,263 C413,254 421,196 566,213 C711,230 780.794615,501.217949 875,425 C937.80359,374.188034 937.80359,220.188034 875,-37 C479.666667,-45.6666667 245.666667,-45.6666667 173,-37 Z" id="Path-4" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

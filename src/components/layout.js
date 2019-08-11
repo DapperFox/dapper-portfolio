@@ -12,6 +12,8 @@ import { Global, css } from '@emotion/core'
 import styled from '@emotion/styled'
 
 import Header from './header'
+import LeftBottom from '../images/left-bottom.svg'
+import TopRight from '../images/top-right.svg'
 
 const Main = styled.main`
   background-color: 'black';
@@ -28,6 +30,21 @@ const globalStyles = css`
   }
 `
 
+const LeftBottomImage = styled.img`
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 600px;
+  object-fit: 'cover'
+`
+const TopRightImage = styled.img`
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 300px;
+  object-fit: 'cover'
+`
+
 function Layout ({ children }) {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -42,8 +59,10 @@ function Layout ({ children }) {
   return (
     <Wrapper>
       <Global styles={globalStyles} />
+      <TopRightImage src={TopRight} />
       <Header siteTitle={data.site.siteMetadata.title} />
       <Main>{children}</Main>
+      <LeftBottomImage src={LeftBottom} />
     </Wrapper>
   )
 }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="915px" height="688px" viewBox="0 0 915 688" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>LeftBottom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="103.384765%" y1="54.0216271%" x2="2.04571527%" y2="82.9275699%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#6B6B6B" stop-opacity="0.75" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="53.4761149%" cy="10.8109472%" fx="53.4761149%" fy="10.8109472%" r="90.725442%" gradientTransform="translate(0.534761,0.108109),scale(0.725726,1.000000),rotate(135.160151),translate(-0.534761,-0.108109)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.75" offset="0%"></stop>
+            <stop stop-color="#ABABAB" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="LeftBottom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M-260,68 C-100.869825,3.15172001 11.7968412,-2.18161333 78,52 C177.304738,133.27242 114,201 188,256 C262,311 287.504105,266.860909 383,311 C478.495895,355.139091 427.715387,459.866675 521,533 C614.284613,606.133325 664.520081,475.327497 796,564 C883.653279,623.115002 934.319946,723.781669 948,866 L496,1071 L-330,934 L-260,68 Z" id="Path-3" fill="url(#linearGradient-1)"></path>
+        <path d="M-63,194 C109.666667,184.666667 220.666667,201.666667 270,245 C344,310 274,383 392,446 C510,509 539,435 645,482 C715.666667,513.333333 769,653.666667 805,903 L-10,947 L-236,590 L-63,194 Z" id="Path-2" fill="url(#radialGradient-2)"></path>
+    </g>
+</svg>
